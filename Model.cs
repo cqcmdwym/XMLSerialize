@@ -99,7 +99,7 @@ namespace XMLSerialize
 
     [Serializable]
     [XmlRoot(ElementName = "root")]
-    public class Model : ISMSFXmlSerializable
+    public class Model : IXmlSerializable
     {
         public Model()
         {

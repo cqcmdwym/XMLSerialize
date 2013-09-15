@@ -5,7 +5,7 @@ using System.Text;
 
 namespace XMLSerialize
 {
-    public interface ISMSFXmlSerializable
+    public interface IXmlSerializable
     {
     }
 }
